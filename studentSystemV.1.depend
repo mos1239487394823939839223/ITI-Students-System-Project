@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734521064 source:d:\practice c++\c final\studentsystemv.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+

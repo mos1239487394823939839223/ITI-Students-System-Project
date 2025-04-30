@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1734624565 source:f:\itimaterials\c language\project c\final one\studentsystemv.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
+1734639166 source:f:\itimaterials\c language\project c\final one\studentsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
+1734639166 source:f:\itimaterials\c language\project c\final one\mostafaanwerhamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
